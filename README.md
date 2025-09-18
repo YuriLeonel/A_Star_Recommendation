@@ -26,7 +26,7 @@ Produtos criados:
 - Impressora 3D Creality Ender-3 S1 Pro (Impressão 3D) - Conversão: 15%
 
 Caminho recomendado do AirPods Pro 2ª Geração para Impressora 3D Creality Ender-3 S1 Pro:
-AirPods Pro 2ª Geração → Laptop Gamer ASUS ROG Strix G15 → Impressora 3D Creality Ender-3 S1 Pro
+AirPods Pro 2ª Geração → Impressora 3D Creality Ender-3 S1 Pro
 ```
 
 ## Design Notes & Limitations
