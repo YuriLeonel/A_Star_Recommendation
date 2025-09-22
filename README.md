@@ -9,13 +9,13 @@ Lightweight prototype that uses an A* search variant to recommend a path between
 - Minimal dependencies (std lib only — `heapq`).
 
 ## File
-- `produtos_eletronicos.py` — implementation and example usage (script guarded with `if __name__ == "__main__":`).
+- `recommendation.py` — implementation and example usage (script guarded with `if __name__ == "__main__":`).
 
 ## Quick start
 
 ```bash
 # run the example
-python produtos_eletronicos.py
+python recommendation.py
 ```
 ## Expected CLI output (example):
 
